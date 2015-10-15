@@ -50,6 +50,13 @@ Page Transit CSS
 Patterns - reusable parts of our design
 
 -------------------------------- */
+
+.intro {
+  padding: 20px;
+  font-size: 60px;
+  font-weight: bold;
+}
+
 .cd-btn {
   display: inline-block;
   padding: 1.4em 1.6em;
@@ -125,12 +132,11 @@ body.page-is-changing::after, body.page-is-changing::before {
 
 main {
   height: 100vh;
-  padding: 10px;
   text-align: center;
 }
 main .cd-main-content {
   position: relative;
-  height: calc(100vh - 20px);
+  height: 100vh;
 }
 main .cd-main-content > div {
   height: 100%;
@@ -154,7 +160,7 @@ main .cd-main-content::after {
 }
 main .cd-main-content.cd-index {
   /* .cd-main-content basic style - index page */
-  background-color: #4089a6;
+  background-color: #424242;
   /* vertically center its content */
   display: table;
   width: 100%;
@@ -201,11 +207,8 @@ main p {
   text-align: left;
 }
 @media only screen and (min-width: 768px) {
-  main {
-    padding: 20px;
-  }
   main .cd-main-content {
-    height: calc(100vh - 40px);
+    height: 100vh;
   }
   main.cd-index > div {
     padding-top: 200px;
@@ -348,4 +351,6 @@ main p {
 /*--
 Page Transit CSS Ends
 --*/
+
+
 
