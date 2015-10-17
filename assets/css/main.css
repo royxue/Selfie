@@ -630,7 +630,7 @@ svg cover layer
   opacity: 0;
 }
 .cd-svg-cover path {
-  fill: #ffe8c9;
+  fill: #f44336;
 }
 .cd-svg-cover.is-animating {
   z-index: 4;
