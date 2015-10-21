@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="221px" height="228px" viewBox="0 0 221 228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <text id="Roy" stroke="#000000" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Product Sans" font-size="60" font-weight="normal">
+            <tspan x="11" y="129" fill="#000000">Roy</tspan>
+        </text>
+        <text id="Xue" stroke="#000000" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Product Sans" font-size="60" font-weight="normal">
+            <tspan x="108" y="202" fill="#000000">Xue</tspan>
+        </text>
+        <path d="M36.354069,207.5 L163.354069,80.5 L163.354069,80.5 L179.681807,80.5 L52.6818074,207.5 L36.354069,207.5 Z" id="Rectangle-1" stroke="#000000" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
